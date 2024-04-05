@@ -1,5 +1,5 @@
 # Greettings
->>--------------------------------------------- To, Greet My dear SIS who got 3rd Position in her Class. ---------------------------------------------<<
+>>--------------------------------------- To, Greet My dear SIS who got 3rd Position in her Class. -----------------------------------------<<
 
 
 Title: 🎉 Congratulations to My Dear SIS on Achieving 3rd Position in Class! 🏆
