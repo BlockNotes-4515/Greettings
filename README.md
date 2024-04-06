@@ -21,4 +21,4 @@ With all my love and admiration,
 tera Bhai!-(SOMU)!
 
 <p><b><center> Congratulations! </b></p>
-<center><img src=sis1.jpg" alt="this is the 1st image" border="2"></center>
+<center><img src="sis1.jpg" alt="this is the 1st image" border="2"></center>
